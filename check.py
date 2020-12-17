@@ -25,7 +25,7 @@ while True:
 		timeTaken = time.time()-start
 		print(result+":		"+urlDict['name'])
 		out['results'].append({'name': urlDict['name'], 'result': result, 'code': code, 'time': timeTaken})
-	out['timeStr'] = datetime.datetime.now().strftime("%m/%d/%Y @ %H:%M:%S")
+	out['timeStr'] = datetime.datetime.now().strftime("%m/%d/%Y @ %H:%M:%S UTC")
 	# print(json.dumps(out))
 	readableList = ""
 	simpleStatus = ""
@@ -47,5 +47,5 @@ while True:
 	open("index.html", "w").write(page)
 	open("short.txt", "w").write(simpleStatus)
 	print("COMPLETED	"+out['timeStr'])
-	print("Running again in 60s")
-	time.sleep(60)
+	print("Running again in 120s")
+	time.sleep(120)
