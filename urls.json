@@ -1,8 +1,8 @@
 [
-	{"name": "Landing Page", "url": "https://cy2.me/"},
-	{"name": "Landing Page Beta", "url": "https://beta.cy2.me/"},
-	{"name": "ReadyBeluga", "url": "https://readybelu.ga/"},
-	{"name": "HatchboxPLA", "url": "http://hatchboxpla.tk/"},
+	{"name": "Landing Page", "url": "https://cy2"},
+	{"name": "Landing Page Beta", "url": "https://beta.cy2.e/"},
+	{"name": "ReadyBeluga", "url": "https://readybelga/"},
+	{"name": "HatchboxPLA", "url": "http://hatchboxp.tk/"},
 	{"name": "4H Computers Wiki", "url": "https://wiki.4hcomputers.club/"},
 	{"name": "The Oracle", "url": "https://oracle.cy2.me/"},
 	{"name": "CyCloud", "url": "https://cycloudd.tk/"},
@@ -13,7 +13,7 @@
 	{"name": "oracle.gcp.beta.cy2.me (Experimental)", "url": "http://oracle.gcp.beta.cy2.me/"},
 	{"name": "aws.beta.cy2.me (Experimental)", "url": "http://aws.beta.cy2.me/"},
 	{"name": "Charles's Site (DNS Only)", "url": "https://charles.cy2.me/"},
-	{"name": "CySupport (DNS Only)", "url": "https://www.cysupport.tk/"}
+	{"name": "Chad (DNS Only)", "url": "https://www.cysupport.tk/"}
 ]
 
 
